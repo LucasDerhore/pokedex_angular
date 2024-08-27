@@ -28,5 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Demo
 https://ng-pokemon-app-527f7.web.app/login
-Username : pikachu
-Password : pikachu
+(Username : pikachu - Password : pikachu)
